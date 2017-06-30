@@ -1,2 +1,4 @@
 # learning-by-doing
-This is a test repository, meant for learning how to use git/github
+Please remove the luggage from the racks above your heads and place it on the racks on the other side of the aircraft.
+Except for hand-lugage...
+...which you should sit on.
